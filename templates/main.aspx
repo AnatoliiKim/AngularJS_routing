@@ -2,5 +2,5 @@
     Main page
 </p>
 <a href="#/form">
-    Click to open Formstack form
+    Click to open page with Formstack form
 </a>
